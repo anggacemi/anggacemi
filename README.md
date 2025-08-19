@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
 
-- **Languages:** JavaScript/TypeScript, PHP
-- **Frameworks & Libraries:** React.js, Next.js, Remix, Svelte, SvelteKit, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, VSCode, Zed
+- **Languages:** PHP
+- **Frameworks & Libraries:** Laravel
+- **Databases:** MySQL
+- **Tools:** VSCode
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
